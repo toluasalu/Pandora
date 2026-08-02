@@ -1,4 +1,4 @@
-# Modular Android Starter
+# Pandora
 
 A production-oriented, reusable Android project template. It uses modular MVVM, unidirectional state
 flow, convention plugins, dependency injection, layered tests, and cross-platform CI.

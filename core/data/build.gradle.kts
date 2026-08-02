@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.modularapp.core.data"
+    namespace = "com.example.pandora.core.data"
 }
 
 dependencies {

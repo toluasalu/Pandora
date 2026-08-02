@@ -19,7 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ModularAndroidTemplate"
+rootProject.name = "Pandora"
 
 include(":app")
 include(":core:model")

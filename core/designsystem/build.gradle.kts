@@ -4,5 +4,5 @@ plugins {
 }
 
 android {
-    namespace = "com.example.modularapp.core.designsystem"
+    namespace = "com.example.pandora.core.designsystem"
 }
