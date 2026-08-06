@@ -2,7 +2,13 @@
 
 ## Purpose
 
-Why this document exists.
+This document defines what a **Threat** is within Pandora. A shared definition ensures
+that the UI, repository, data sources, and tests all work with the same model and
+make the same assumptions.
+
+Pandora is a location-aware health application. In this context, a threat is an
+infectious disease or public health risk that is currently relevant to a user's
+location.
 
 ## What is a Threat?
 
