@@ -29,7 +29,7 @@ Each threat describes:
 | Field | Type | Description |
 |------|------|-------------|
 | id | String | Unique identifier for the threat. |
-| name | String | Disease name (e.g. Cholera, Lassa Fever, Mpox). |
+| name | String | Disease name (e.g. Cholera, Lassa Fever, Smallpox). |
 | severity | Severity | Current risk level (LOW, MEDIUM, HIGH, CRITICAL). |
 | area | Area | Geographic area covered by this assessment. |
 | guidance | String | Recommended actions for users in the affected area. |
@@ -85,6 +85,7 @@ Using an explicit expiration time makes the contract clear.
 
 Future work can assume that:
 
+- every major stakeholder has signed off on this document
 - every threat contains the fields defined in this document
 - repositories expose threats without revealing their source
 - stale data is identified consistently
