@@ -29,7 +29,7 @@ Each threat describes:
 | Field | Type | Description |
 |------|------|-------------|
 | id | String | Unique identifier for the threat. |
-| name | String | Disease name (e.g. Cholera, Lassa Fever, Mpox). |
+| name | String | Disease name (e.g. Cholera, Lassa Fever, Smallpox). |
 | severity | Severity | Current risk level (LOW, MEDIUM, HIGH, CRITICAL). |
 | area | Area | Geographic area covered by this assessment. |
 | guidance | String | Recommended actions for users in the affected area. |
