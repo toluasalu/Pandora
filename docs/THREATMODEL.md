@@ -86,6 +86,7 @@ Using an explicit expiration time makes the contract clear.
 Future work can assume that:
 
 - every threat contains the fields defined in this document
+- every major stakeholder has accepted the contents of this document
 - repositories expose threats without revealing their source
 - stale data is identified consistently
 - local and remote data sources produce the same domain model
