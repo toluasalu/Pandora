@@ -85,6 +85,7 @@ Using an explicit expiration time makes the contract clear.
 
 Future work can assume that:
 
+- every major stakeholder has signed off on this document
 - every threat contains the fields defined in this document
 - repositories expose threats without revealing their source
 - stale data is identified consistently
